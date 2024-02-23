@@ -1,0 +1,57 @@
+#header{
+    background-color: darkblue;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+}
+
+#portofolio{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+}
+
+.projek{
+    width: 20px;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #ccc;
+}
+
+.project img {
+    width: 100%;
+    height: 80%;
+}
+
+.project h2 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+    font-size: 1.5rem;
+}
+
+.project p {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
+
+#contact {
+    background-color: #f0f0f0;
+    padding: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#contact {
+    background-color: #f0f0f0;
+    padding: 30px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+    color: #ff0000;
+  }
